@@ -5,6 +5,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Gradio](https://img.shields.io/badge/interface-Gradio-FF4B4B.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg)
+
+
 **SQLI Guard** is a comprehensive, AI-powered tool designed to detect, analyze, visualize, and prevent SQL injection attacks. It leverages advanced machine learning models (BERT, GAN, Stable Diffusion), natural language processing, and interactive visualizations to provide robust cybersecurity analysis and protection for SQL queries. The tool includes a Gradio-based web interface for intuitive user interaction, making it suitable for developers, security researchers, and red teamers.
 
 ## Features
