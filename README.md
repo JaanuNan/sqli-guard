@@ -66,10 +66,10 @@ The web interface will launch at `http://localhost:7860` with these main compone
 
 ## Screenshots
 
-![Query Analysis](screenshots/analysis.png)
+![Query Analysis](Screenshots/Classification.png)
 *Query analysis with 3D visualization*
 
-![Honeypot Simulation](screenshots/honeypot.png)
+![Honeypot Simulation](Screenshots/honeypot.png)
 *Honeypot attack simulation*
 
 ## Technical Components
