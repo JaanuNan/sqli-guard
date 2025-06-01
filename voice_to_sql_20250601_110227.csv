@@ -1,0 +1,9 @@
+Timestamp,Transcription,Secure_Query,Explanation
+2025-06-d 11:02:27, Select * from users;,"```
+SELECT * FROM users","**Sanitization Logic**
+- Converted natural language to SQL, ignoring the phrase ""Select star from"" as it seems to be a play on words and ""Shush"" which doesn't make sense in the context of a SQL query.
+- Identified ""you"" as the table name, assuming it's a valid table in the database.
+- Used no parameterized query in this case since there are no parameters or user inputs in the query.
+- Ensured no dangerous keywords like UNION or ; were introduced.
+- Note: In a real-world scenario, it's always best to validate and sanitize any user input to prevent SQL injection attacks. However, in this case, the query does not contain any user input or parameters, so a parameterized query is not necessary.
+```"
