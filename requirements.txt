@@ -1,0 +1,33 @@
+
+# Core Requirements
+python>=3.9
+torch>=2.0.0
+transformers>=4.30.0
+gradio>=3.40.0
+plotly>=5.15.0
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# NLP/ML Requirements
+sentence-transformers>=2.2.0
+datasets>=2.12.0
+accelerate>=0.20.0
+
+# Visualization
+networkx>=3.0
+matplotlib>=3.7.0
+pillow>=9.5.0
+
+# API Clients
+groq>=0.3.0
+gtts>=2.3.0
+
+# Security/Utilities
+regex>=2023.6.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# Optional (for Stable Diffusion)
+diffusers>=0.19.0
