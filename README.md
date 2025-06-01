@@ -24,7 +24,7 @@ SQLI Guard is an advanced AI-powered toolkit for detecting, visualizing, and pre
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sqli-guard.git
+git clone https://github.com/JaanuNan/sqli-guard.git
 cd sqli-guard
 ```
 
@@ -89,8 +89,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 Project Link: [https://github.com/JaanuNan/sqli-guard.git](https://github.com/JaanuNan/sqli-guard.git)
 ### Notes:
 
